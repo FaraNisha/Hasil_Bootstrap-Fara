@@ -1,1 +1,23 @@
 # Hasil_Bootstrap-Fara
+
+Hasil Alert
+![alt text](https://github.com/FaraNisha/Hasil_Bootstrap-Fara/blob/master/Hasil%20Alert.PNG)
+Hasil Button
+![alt text](https://github.com/FaraNisha/Hasil_Bootstrap-Fara/blob/master/Hasil%20Button.PNG)
+Hasil Card
+![alt text](https://github.com/FaraNisha/Hasil_Bootstrap-Fara/blob/master/Hasil%20Card.PNG)
+Hasil Color
+![alt text](https://github.com/FaraNisha/Hasil_Bootstrap-Fara/blob/master/Hasil%20Color.PNG)
+Hasil Grid
+![alt text](https://github.com/FaraNisha/Hasil_Bootstrap-Fara/blob/master/Hasil%20Grid.PNG)
+Hasil Modal
+![alt text](https://github.com/FaraNisha/Hasil_Bootstrap-Fara/blob/master/Hasil%20Modal%201.PNG)
+![alt text](https://github.com/FaraNisha/Hasil_Bootstrap-Fara/blob/master/Hasil%20Modal%202.PNG)
+![alt text](https://github.com/FaraNisha/Hasil_Bootstrap-Fara/blob/master/Hasil%20Modal%203.PNG)
+Hasil NavBar
+![alt text](https://github.com/FaraNisha/Hasil_Bootstrap-Fara/blob/master/Hasil%20NavBar.PNG)
+Hasil Slider
+![alt text](https://github.com/FaraNisha/Hasil_Bootstrap-Fara/blob/master/Hasil%20Slider.PNG)
+Hasil Table
+![alt text](https://github.com/FaraNisha/Hasil_Bootstrap-Fara/blob/master/Hasil%20Table%201.PNG)
+![alt text](https://github.com/FaraNisha/Hasil_Bootstrap-Fara/blob/master/Hasil%20Table%202.PNG)
